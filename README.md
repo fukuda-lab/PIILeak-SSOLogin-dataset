@@ -1,4 +1,3 @@
 # PII leakage through SSO logins dataset
-Directory
 
-\PII_leak_dataset : Dataset about PII leakage information in SSO context.
+Includes HTTP requests sent to third-party domains, containing users' PII. Excludes requests related to SSO authentication and requests sent to the Google and Meta ecosystems.
