@@ -1,0 +1,118 @@
+input|domain|name of organization|name of category
+publicmediasignin.org|publicmediasignin.org|None|None
+google-analytics.com|google-analytics.com|Google|Site Analytics
+profitwell.com|profitwell.com|None|None
+getbeamer.com|getbeamer.com|None|None
+hubspot.com|hs-analytics.net|HubSpot|Site Analytics
+doubleclick.net|2mdn.net|Google|Advertising
+google.com|google.at|Google|Advertising
+bing.com|ads.microsoft.com|Microsoft|Advertising
+google.co.jp|google.at|Google|Advertising
+feedier.com|feedier.com|None|None
+igodigital.com|igodigital.com|Salesforce|Customer Interaction
+criteo.com|criteo.com|Criteo|Advertising
+getvero.com|d3qxef4rp70elm.cloudfront.net|Vero|Advertising
+g2crowd.com|g2crowd.com|None|None
+insurads.com|insurads.com|None|None
+3lift.com|3lift.com|TripleLift, Inc.|Advertising
+rubiconproject.com|dpclk.com|The Rubicon Project, Limited|Advertising
+linkedin.com|bizo.com|Microsoft|Misc
+cxense.com|cxense.com|Cxense|Advertising
+facebook.com|facebook.com|Meta|Advertising
+t.co|t.co|X Corp.|Social Media
+twitter.com|t.co|X Corp.|Social Media
+heapanalytics.com|d36lvucg9kzous.cloudfront.net|Heap|Site Analytics
+micstatic.com|micstatic.com|None|None
+gravatar.com|gravatar.com|Automattic|Social Media
+rlcdn.com|pippio.com|LiveRamp|Advertising
+pippio.com|pippio.com|LiveRamp|Advertising
+agkn.com|agkn.com|TransUnion|Advertising
+liadm.com|liadm.com|LiveIntent|Site Analytics
+pinterest.com|pinimg.com|Pinterest|Social Media
+snapchat.com|sc-static.net|Snap Technologies|Advertising
+demdex.net|adobe.com|Adobe|Advertising
+trvl-px.com|expedia.com|IAC (InterActiveCorp)|Misc
+jixie.io|jixie.io|None|None
+piano.io|piano.io|Piano|Site Analytics
+amplitude.com|amplitude.com|Amplitude|Site Analytics
+klaviyo.com|klaviyo.com|None|None
+helpscout.net|helpscout.net|None|None
+visualstudio.com|js.monitor.azure.com|Microsoft|Site Analytics
+mparticle.com|mparticle.com|None|None
+mixpanel.com|mixpanel.com|Mixpanel|Site Analytics
+intercom.io|intercom.com|Intercom|Customer Interaction
+kiwi.com|kiwi.com|None|None
+infinario.com|infinario.com|None|None
+segment.io|d2dq2ahtl5zl1z.cloudfront.net|Segment|Site Analytics
+moengage.com|moengage.com|None|None
+studyiq.com|studyiq.com|None|None
+transifex.net|transifex.net|None|None
+casalemedia.com|casalemedia.com|Index Exchange, Inc.|Advertising
+creativecdn.com|creativecdn.com|RTB House|Advertising
+eqcm.net|eqcm.net|None|None
+sjv.io|sjv.io|None|None
+amazon-adsystem.com|amazon-adsystem.com|Amazon|Advertising
+t13.io|t13.io|None|None
+tealiumiq.com|tealium.com|Tealium|Site Analytics
+tealiumiq.com|tiqcdn.com|Tealium|Consent Management
+simonsignal.com|simonsignal.com|None|None
+expedia.com|expedia.com|IAC (InterActiveCorp)|Misc
+permutive.com|permutive.com|Permutive, Inc.|Advertising
+wp.com|w.org|Automattic|Site Analytics
+fbsbx.com|fbcdn.net|Meta|Hosting
+dowjones.com|dowjones.com|None|None
+firebaseapp.com|firebaseapp.com|None|None
+californiatimes.com|californiatimes.com|None|None
+kaleido.ai|kaleido.ai|None|None
+mix.com|mix.com|None|None
+adroll.com|adroll.com|AdRoll|Advertising
+riotgames.com|riotgames.com|None|None
+imgbb.com|imgbb.com|None|None
+businessinsider.com|businessinsider.com|None|None
+mypass.de|mypass.de|None|None
+facebook.net|facebook.com|Meta|Advertising
+jimdo.com|jimcdn.com|null|Hosting
+mylo.id|mylo.id|None|None
+livechat.com|livechat.com|None|None
+pixnet.cc|pixnet.cc|None|None
+olx.com|olx.com|None|None
+loginradius.com|loginradius.com|None|None
+auth0.com|auth0.com|Auth0 Inc.|Site Analytics
+nymag.com|nymag.com|None|None
+nvidia.com|nvidia.com|None|None
+hostinger.com|hostinger.com|None|None
+oreilly.com|oreilly.com|None|None
+demirorenmedya.com|demirorenmedya.com|None|None
+newscorpaustralia.com|newscorpaustralia.com|None|None
+jeded.com|jeded.com|None|None
+arcgis.com|arcgis.com|None|None
+magic.link|magic.link|None|None
+site123.com|site123.com|None|None
+clarivate.com|clarivate.com|None|None
+orcid.org|orcid.org|None|None
+tinypass.com|npttech.com|Piano|Essential
+aid.no|aid.no|None|None
+itemfix.com|itemfix.com|None|None
+huffpost.com|huffpost.com|None|None
+vista.com|vista.com|None|None
+99designs.jp|99designs.jp|None|None
+zoho.com|zoho.com|None|None
+yandex.net|awaps.yandex.ru|Yandex|Advertising
+yandex.ru|awaps.yandex.ru|Yandex|Advertising
+yandex.com|yandex.com|None|None
+rebelmouse.com|rebelmouse.com|None|None
+stathead.com|stathead.com|None|None
+socialplus.jp|socialplus.jp|None|None
+i2i.jp|i2i.jp|i2i.jp|Site Analytics
+cloudlogin.co|cloudlogin.co|None|None
+reedpop.com|reedpop.com|None|None
+onelog.ch|onelog.ch|None|None
+gigya.com|analytics.gigyahosting1.com|SAP|Site Analytics
+nettruyenplus.com|nettruyenplus.com|None|None
+webnode.com|webnode.com|None|None
+gcion.com|gcion.com|None|None
+amazoncognito.com|amazoncognito.com|None|None
+envato.com|envato.com|None|None
+yellowpages.com|c.ypcdn.com|Thryv|Advertising
+b2clogin.com|b2clogin.com|None|None
+niagahoster.co.id|niagahoster.co.id|None|None

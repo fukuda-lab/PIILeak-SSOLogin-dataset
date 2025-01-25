@@ -1,0 +1,293 @@
+input|domain|name of organization|name of category
+atlassian.com|atl-paas.net|Atlassian|Customer Interaction
+google.com|google.at|Google|Advertising
+publicmediasignin.org|publicmediasignin.org|None|None
+google-analytics.com|google-analytics.com|Google|Site Analytics
+janraincapture.com|janraincapture.com|None|None
+wootric.com|wootric.com|None|None
+condenast.com|condenast.com|Condé Nast|Misc
+doubleclick.net|2mdn.net|Google|Advertising
+bing.com|ads.microsoft.com|Microsoft|Advertising
+google.co.jp|google.at|Google|Advertising
+getbeamer.com|getbeamer.com|None|None
+profitwell.com|profitwell.com|None|None
+getvero.com|d3qxef4rp70elm.cloudfront.net|Vero|Advertising
+heapanalytics.com|d36lvucg9kzous.cloudfront.net|Heap|Site Analytics
+feedier.com|feedier.com|None|None
+fdier.co|fdier.co|None|None
+getrockerbox.com|getrockerbox.com|Rockerbox|Site Analytics
+facebook.com|facebook.com|Meta|Advertising
+taboola.com|basebanner.com|Taboola|Advertising
+pinterest.com|pinimg.com|Pinterest|Social Media
+t.co|t.co|X Corp.|Social Media
+twitter.com|t.co|X Corp.|Social Media
+googleadservices.com|googleadservices.com|Google|Advertising
+bringmethehats.com|bringmethehats.com|None|None
+hubspot.com|hs-analytics.net|HubSpot|Site Analytics
+usrsprt.com|usrsprt.com|None|None
+nvidia.com|nvidia.com|None|None
+doist.com|doist.com|None|None
+igodigital.com|igodigital.com|Salesforce|Customer Interaction
+criteo.com|criteo.com|Criteo|Advertising
+cloudfront.net|cloudfront.net|Amazon|Hosting
+netcoresmartech.com|netcoresmartech.com|None|None
+linkedin.com|bizo.com|Microsoft|Misc
+privy.com|privy.com|Privy|Customer Interaction
+sailthru.com|sail-horizon.com|Sailthru|Advertising
+customer.io|customer.io|None|None
+aid.no|aid.no|None|None
+k5a.io|k5a.io|None|None
+oup.com|oup.com|None|None
+lr-ingest.io|lr-ingest.io|None|None
+visualwebsiteoptimizer.com|d5phz18u4wuww.cloudfront.net|Wingify|Site Analytics
+stackadapt.com|stackadapt.com|StackAdapt|Advertising
+atatus.com|atatus.com|None|None
+sendx.io|sendx.io|None|None
+cxense.com|cxense.com|Cxense|Advertising
+insurads.com|insurads.com|None|None
+rubiconproject.com|dpclk.com|The Rubicon Project, Limited|Advertising
+3lift.com|3lift.com|TripleLift, Inc.|Advertising
+kahoot.it|kahoot.it|None|None
+mainetodaymedia.com|mainetodaymedia.com|None|None
+lr-wa.com|lr-wa.com|None|None
+ngrok.com|ngrok.com|None|None
+scorecardresearch.com|scorecardresearch.com|comScore, Inc.|Site Analytics
+quantserve.com|quantcast.com|Quantcast International Limited|Advertising
+olark.com|olark.com|Olark|Customer Interaction
+livemint.com|livemint.com|None|None
+livehindustan.com|livehindustan.com|None|None
+healthshots.com|healthshots.com|None|None
+ottplay.com|ottplay.com|None|None
+slurrp.com|slurrp.com|None|None
+htsmartcast.com|htsmartcast.com|None|None
+htreaders.com|htreaders.com|None|None
+freethesaurus.com|freethesaurus.com|None|None
+sinonimosgratis.com|sinonimosgratis.com|None|None
+gumgum.com|gumgum.com|GumGum|Advertising
+amazon-adsystem.com|amazon-adsystem.com|Amazon|Advertising
+yandex.ru|awaps.yandex.ru|Yandex|Advertising
+mktoresp.com|marketo.com|Marketo|Advertising
+speedcurve.com|speedcurve.com|null|Site Analytics
+matheranalytics.com|matheranalytics.com|Mather Economics|Site Analytics
+azurewebsites.net|azurewebsites.net|Microsoft|Misc
+advance.net|advance.net|None|None
+selcdn.net|selcdn.net|None|None
+parsely.com|d1z2jf7jlzjs58.cloudfront.net|Parse.ly|Site Analytics
+tinypass.com|npttech.com|Piano|Essential
+curbed.com|curbed.com|None|None
+grubstreet.com|grubstreet.com|None|None
+thecut.com|thecut.com|None|None
+vulture.com|vulture.com|None|None
+zendesk.com|zendesk.com|Zendesk|Customer Interaction
+signnow.com|signnow.com|None|None
+airslate.com|airslate.com|None|None
+launchdarkly.com|launchdarkly.com|None|None
+seznam.cz|seznam.cz|None|None
+rebrandly.com|rebrandly.com|None|None
+piano.io|piano.io|Piano|Site Analytics
+esm1.net|cc2.dealer.com|Dealer.com|Site Analytics
+uservoice.com|uservoice.com|UserVoice|Customer Interaction
+nbc.com|nbc.com|None|None
+sonora.id|sonora.id|None|None
+bolasport.com|bolasport.com|None|None
+kompas.tv|kompas.tv|None|None
+motorplus-online.com|motorplus-online.com|None|None
+tribunnews.com|tribunnews.com|None|None
+grid.id|grid.id|None|None
+tribunnewswiki.com|tribunnewswiki.com|None|None
+tribunjualbeli.com|tribunjualbeli.com|None|None
+gridstore.id|gridstore.id|None|None
+kitabangkit.id|kitabangkit.id|None|None
+kgmedia.id|kgmedia.id|None|None
+moview.id|moview.id|None|None
+pasangiklan.com|pasangiklan.com|None|None
+rumahpemilu.id|rumahpemilu.id|None|None
+kgnow.com|kgnow.com|None|None
+googleapis.com|googleapis.com|Google|Hosting
+yahoo.co.jp|storage-yahoo.jp|Yahoo! Japan|Advertising
+teads.tv|teads.tv|Teads|Advertising
+beusable.net|beusable.net|None|None
+gravatar.com|gravatar.com|Automattic|Social Media
+pippio.com|pippio.com|LiveRamp|Advertising
+rlcdn.com|pippio.com|LiveRamp|Advertising
+agkn.com|agkn.com|TransUnion|Advertising
+snapchat.com|sc-static.net|Snap Technologies|Advertising
+owox.com|owox.com|OWOX Inc.|Site Analytics
+demdex.net|adobe.com|Adobe|Advertising
+trvl-px.com|expedia.com|IAC (InterActiveCorp)|Misc
+yahoo.com|tumblr.com|Verizon|Site Analytics
+jixie.io|jixie.io|None|None
+dotomi.com|dotomi.com|Conversant|Advertising
+zeotap.com|zeotap.com|None|None
+mediarithmics.com|mediarithmics.com|mediarithmics|Advertising
+mmstat.com|caanalytics.com|MarkMonitor|Advertising
+intercom.io|intercom.com|Intercom|Customer Interaction
+amplitude.com|amplitude.com|Amplitude|Site Analytics
+klaviyo.com|klaviyo.com|None|None
+notion.so|notion.so|None|None
+leanplum.com|leanplum.com|None|None
+nymetro.com|nymetro.com|None|None
+fullstory.com|fullstory.com|fullstory|Site Analytics
+helpscout.net|helpscout.net|None|None
+segment.io|d2dq2ahtl5zl1z.cloudfront.net|Segment|Site Analytics
+browser-intake-datadoghq.com|browser-intake-datadoghq.com|None|None
+sprig.com|sprig.com|None|None
+visualstudio.com|js.monitor.azure.com|Microsoft|Site Analytics
+mparticle.com|mparticle.com|None|None
+mixpanel.com|mixpanel.com|Mixpanel|Site Analytics
+amazonaws.com|amazonaws.com|Amazon|Hosting
+sentry.io|d3nslu0hdya83q.cloudfront.net|Sentry|Site Analytics
+skypicker.com|skypicker.com|None|None
+infinario.com|infinario.com|None|None
+featuregates.org|featuregates.org|None|None
+statsigapi.net|statsigapi.net|None|None
+hsforms.com|forms.hubspot.com|HubSpot|Customer Interaction
+braze.com|braze.com|None|None
+kiwi.com|kiwi.com|None|None
+evergage.com|apptegic.com|Evergage|Customer Interaction
+canny.io|canny.io|None|None
+moengage.com|moengage.com|None|None
+smarterhq.io|smarterhq.io|None|None
+site24x7rum.in|site24x7rum.in|None|None
+transifex.net|transifex.net|None|None
+adn.cloud|adn.cloud|None|None
+casalemedia.com|casalemedia.com|Index Exchange, Inc.|Advertising
+pubmatic.com|pubmatic.com|PubMatic, Inc.|Advertising
+osano.com|osano.com|None|None
+permutive.com|permutive.com|Permutive, Inc.|Advertising
+mg2insights.com|mg2insights.com|None|None
+tealiumiq.com|tealium.com|Tealium|Site Analytics
+tealiumiq.com|tiqcdn.com|Tealium|Consent Management
+pub.network|pub.network|null|Advertising
+zopim.com|zopim.com|Zendesk|Customer Interaction
+fdcm73.net|fdcm73.net|None|None
+creativecdn.com|creativecdn.com|RTB House|Advertising
+slgnt.eu|slgnt.eu|None|None
+eqcm.net|eqcm.net|None|None
+pxf.io|pxf.io|None|None
+sjv.io|sjv.io|None|None
+tiktok.com|tiktok.com|None|None
+expedia.com|expedia.com|IAC (InterActiveCorp)|Misc
+akstat.io|abmr.net|Akamai Technologies|Hosting
+simonsignal.com|simonsignal.com|None|None
+polyfill.io|polyfill.io|Polyfill.io|Misc
+adrizer.com|adrizer.com|None|None
+quantcast.com|quantcast.com|Quantcast International Limited|Advertising
+consensu.org|consensu.org|IAB|Consent Management
+quantcount.com|quantcount.com|Quantcast International Limited|Site Analytics
+headwayapp.co|headwayapp.co|None|None
+segment.com|d2dq2ahtl5zl1z.cloudfront.net|Segment|Site Analytics
+appcues.com|appcues.com|null|Customer Interaction
+zoom.us|zoom.us|None|None
+lightboxcdn.com|digioh.com|null|Advertising
+wp.com|w.org|Automattic|Site Analytics
+hwcdn.net|hwcdn.net|Highwinds|Site Analytics
+bitly.com|bitly.com|None|None
+stackauth.com|stackauth.com|None|None
+alibabacloud.com|alibabacloud.com|None|None
+springernature.com|springernature.com|None|None
+gcion.com|gcion.com|None|None
+bunny.net|bunny.net|None|None
+firebaseapp.com|firebaseapp.com|None|None
+w3spaces.com|w3spaces.com|None|None
+californiatimes.com|californiatimes.com|None|None
+huffpost.com|huffpost.com|None|None
+rpxnow.com|janrainbackplane.com|Akamai Technologies|Site Analytics
+b2clogin.com|b2clogin.com|None|None
+dowjones.com|dowjones.com|None|None
+kaleido.ai|kaleido.ai|None|None
+voxmedia.com|voxmedia.com|None|None
+xhamster20.desi|xhamster20.desi|None|None
+reachplc.com|reachplc.com|None|None
+mix.com|mix.com|None|None
+scienceconnect.io|scienceconnect.io|None|None
+theguardian.com|theguardian.com|None|None
+newscorpaustralia.com|newscorpaustralia.com|None|None
+riotgames.com|riotgames.com|None|None
+aol.com|adsdk.com|Verizon|Advertising
+imgbb.com|imgbb.com|None|None
+businessinsider.com|businessinsider.com|None|None
+kinja.com|kinja-img.com|Gizmodo Media Group|Site Analytics
+auth0.com|auth0.com|Auth0 Inc.|Site Analytics
+intercom.com|intercom.com|Intercom|Customer Interaction
+mylo.id|mylo.id|None|None
+37signals.com|37signals.com|None|None
+lidovky.cz|lidovky.cz|None|None
+expres.cz|expres.cz|None|None
+ocko.tv|ocko.tv|None|None
+envato.com|envato.com|None|None
+livechat.com|livechat.com|None|None
+getpostman.com|getpostman.com|None|None
+pixiv.net|pixiv.net|None|None
+burda-forward.de|burda-forward.de|None|None
+uber.com|uber.com|None|None
+padlet.org|padlet.org|None|None
+olx.com|olx.com|None|None
+kayak.co.jp|kayak.co.jp|None|None
+brevo.com|brevo.com|None|None
+trimble.com|trimble.com|None|None
+nbcuni.com|nbcuni.com|None|None
+imgix.com|imgix.com|None|None
+getharvest.com|getharvest.com|None|None
+xhamster.com|xhamster.com|null|Adult Advertising
+meliopayments.com|meliopayments.com|None|None
+chatdate.app|chatdate.app|None|None
+seek.com|seek.com|None|None
+ami-admin.com|ami-admin.com|None|None
+gnome.org|gnome.org|None|None
+algolia.com|algolia.com|null|Advertising
+bitrix24.net|bitrix24.net|None|None
+hostinger.com|hostinger.com|None|None
+demirorenmedya.com|demirorenmedya.com|None|None
+wellfound.com|wellfound.com|None|None
+gaijin.net|gaijin.net|None|None
+thetimes.co.uk|thetimes.co.uk|None|None
+jeded.com|jeded.com|None|None
+tnet.nl|tnet.nl|None|None
+ok.ru|imgsmail.ru|Megafon|Social Media
+site123.com|site123.com|None|None
+clarivate.com|clarivate.com|None|None
+amazoncognito.com|amazoncognito.com|None|None
+zoho.com|zoho.com|None|None
+zauth.net|zauth.net|None|None
+monotype.com|monotype.com|None|None
+blink.net|blink.net|None|None
+kbb-autotrader.com|kbb-autotrader.com|None|None
+dramacool.hr|dramacool.hr|None|None
+loginradius.com|loginradius.com|None|None
+vista.com|vista.com|None|None
+99designs.jp|99designs.jp|None|None
+asana.com|asana.com|None|None
+trainline.com|trainline.com|None|None
+onelog.ch|onelog.ch|None|None
+worldstarhiphop.com|worldstarhiphop.com|None|None
+xoauth.top|xoauth.top|None|None
+seattletimes.com|seattletimes.com|None|None
+costargroup.com|costargroup.com|None|None
+partnerize.com|partnerize.com|None|None
+chegg.com|chegg.com|None|None
+gogoanime.llc|gogoanime.llc|None|None
+stathead.com|stathead.com|None|None
+qiota.com|qiota.com|None|None
+socialplus.jp|socialplus.jp|None|None
+bitbucket.org|bitbucket.org|None|None
+i2i.jp|i2i.jp|i2i.jp|Site Analytics
+render.com|render.com|None|None
+cloudlogin.co|cloudlogin.co|None|None
+wp.pl|wp.pl|WP|Advertising
+tcsion.com|tcsion.com|None|None
+usatoday.com|usatoday.com|None|None
+adobe.com|adobe.com|Adobe|Advertising
+ulogin.ru|ulogin.ru|None|None
+autoscout24.com|autoscout24.com|Scout 24|Misc
+timberland.co.jp|timberland.co.jp|None|None
+tumblr.com|tumblr.com|Verizon|Site Analytics
+gravitational.com|gravitational.com|None|None
+litmus.com|litmus.com|None|None
+gameforge.com|gameforge.com|None|None
+niagahoster.co.id|niagahoster.co.id|None|None
+smaato.net|smaato.net|Verve Group|Advertising
+spot.im|spot.im|Spot.IM Ltd.|Social Media
+withgoogle.com|withgoogle.com|None|None
+kompas.com|kompas.com|None|None
+gannettdigital.com|gannettdigital.com|None|None
