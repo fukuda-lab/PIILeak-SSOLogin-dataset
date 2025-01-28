@@ -47,7 +47,8 @@ Notes: This proccess include the detection of third-party tracking requests.
 
 Run: `python _get_3rd.py` to export the list receivers from Adhoc files.
 
-Run: `./ghostery.sh` to identify Organization and Category of these receivers that exported. The output is stored at \input\Ghostery\
+Run: `./ghostery.sh` to identify Organization and Category of these receivers that exported. The output is stored at \input\Ghostery.
+Please see document for [@Ghostery/trackerdb](https://www.npmjs.com/package/@ghostery/trackerdb)
 
 Run: `python _exclude_ecosystem.py' to filter and exclude the requests send to third-party domains belongs Google and Meta. The out is stored at \input\Japan\ _(excluded dataset)_
 
