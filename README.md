@@ -19,7 +19,7 @@ The dataset includes data extracted from web traffic during the SSO login proces
 - **Output Data:**
   - Analysis results derived from the input data.
 
-## Getting Started
+## Usage
 
 ### Prerequisites
 
@@ -27,6 +27,7 @@ To analyze the data, you will need the following:
 
 - Python 3.x
 - Necessary python libraries: pandas, sqlite3, tldextract, adblockparser
+- Node.js
 
 ### Data Analysis
 **Step 1: Load the Raw Dataset**
@@ -73,3 +74,7 @@ Following these scripts to analysis:
 4.6 `_breakdown_chain`: Analysis the chains of PII leakage requests. Outputs are visualized in HTML files.
 
 4.7 `_breakdown_countries`: Breakdown of PII leakage in Japan, Germany, and the United States.
+
+
+## Contact
+For any questions or inquiries, please contact Huy Pham (huypham.work@outlook.com)
