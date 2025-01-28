@@ -9,7 +9,7 @@ The dataset you are referring to is an output from the **SSOLogin** framework, w
 ## Download Dataset
 
 You can download the dataset from the following link:
-[Download Dataset](https://drive.google.com/drive/folders/1X7UJ0YxKe_hioQOfSzueas1fAzSkFfv3?usp=sharing)
+[Download Dataset](https://doi.org/10.17617/3.AOFCGY)
 
 ## Usage
 Please refer to the documentation for instructions on how to use the dataset effectively.
